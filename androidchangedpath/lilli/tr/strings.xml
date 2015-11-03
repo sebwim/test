@@ -18,7 +18,7 @@
   <string name="dialog_about_msg_9">Sebastian Höbarth</string>
   <string name="dialog_about_title">Damga</string>
   <string name="dialog_btn_cancle">iptal etmek</string>
-  <string name="dialog_btn_navigation"><font size='10'>Google</font>\nNavigasyon</string>
+  <string name="dialog_btn_navigation">&lt;font size=\"10\"&gt;Google&lt;/font&gt;\nNavigasyon</string>
   <string name="dialog_btn_ok">ok</string>
   <string name="dialog_date_abort">iptal etmek</string>
   <string name="dialog_date_ok">OK</string>
@@ -80,8 +80,8 @@
   <string name="email_address">lilli@mobilefactory.at</string>
   <string name="email_chooser">Mail/Posta seçin</string>
   <string name="email_subject">Mesaj</string>
-  <string name="main_btn_left"><i>sol</i></string>
-  <string name="main_btn_right"><i>sağ</i></string>
+  <string name="main_btn_left">&lt;i&gt;sol&lt;/i&gt;</string>
+  <string name="main_btn_right">&lt;i&gt;sağ&lt;/i&gt;</string>
   <string name="main_search_hint">Durak arama...</string>
   <string name="main_search_not_in_list">uygulanabilir değil</string>
   <string name="main_title_advert">hareketler</string>
@@ -113,7 +113,7 @@
   <string name="please_wait">Lütfen bekleyin ...</string>
   <string name="search_btn_clear">silmek</string>
   <string name="search_btn_pos">durum/konum</string>
-  <string name="td_price_desc">Fiyatı% 10 KDV içerir.</string>
+  <string name="td_price_desc">Fiyatı&#0037; 10 KDV içerir.</string>
   <string name="to_city_description">Şehir:</string>
   <string name="to_count_description">numara:</string>
   <string name="to_ticket_type_description">Bilet türü:</string>
@@ -149,7 +149,7 @@
   <string name="trip_radio_prox_foot">olası patika ile</string>
   <string name="trip_radio_type_change">küçük değişiklikler</string>
   <string name="trip_radio_type_fast">hızlı bağlantı</string>
-  <string name="trip_search_btn_destination"> Değiştirme (yön)</string>
+  <string name="trip_search_btn_destination">Değiştirme (yön)</string>
   <string name="trip_search_btn_start">durum</string>
   <string name="trip_search_date">Tarih</string>
   <string name="trip_search_destination">Hedef istasyonu, durum</string>

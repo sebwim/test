@@ -18,7 +18,7 @@
   <string name="dialog_about_msg_9">Sebastian Höbarth</string>
   <string name="dialog_about_title">Imprint</string>
   <string name="dialog_btn_cancle">cancel</string>
-  <string name="dialog_btn_navigation"><font size='10'>Google</font>\nNavigation</string>
+  <string name="dialog_btn_navigation">&lt;font size=\"10\"&gt;Google&lt;/font&gt;\nNavigation</string>
   <string name="dialog_btn_ok">ok</string>
   <string name="dialog_date_abort">Cancel</string>
   <string name="dialog_date_ok">OK</string>
@@ -80,8 +80,8 @@
   <string name="email_address">lilli@mobilefactory.at</string>
   <string name="email_chooser">Select Email</string>
   <string name="email_subject">Message</string>
-  <string name="main_btn_left"><i>left</i></string>
-  <string name="main_btn_right"><i>right</i></string>
+  <string name="main_btn_left">&lt;i&gt;left&lt;/i&gt;</string>
+  <string name="main_btn_right">&lt;i&gt;right&lt;/i&gt;</string>
   <string name="main_search_hint">Search station ...</string>
   <string name="main_search_not_in_list">n.A.</string>
   <string name="main_title_advert">Departures</string>
@@ -111,9 +111,9 @@
   <string name="menu_ticket">Ticket</string>
   <string name="my_position">my position</string>
   <string name="please_wait">please wait ...</string>
-  <string name="search_btn_clear"><i>delete</i></string>
-  <string name="search_btn_pos"><i>Position</i></string>
-  <string name="td_price_desc">Price includes 10% VAT.</string>
+  <string name="search_btn_clear">&lt;i&gt;delete&lt;/i&gt;</string>
+  <string name="search_btn_pos">&lt;i&gt;Position&lt;/i&gt;</string>
+  <string name="td_price_desc">Price includes 10&#0037; VAT.</string>
   <string name="to_city_description">City:</string>
   <string name="to_count_description">Number:</string>
   <string name="to_ticket_type_description">Ticket type:</string>

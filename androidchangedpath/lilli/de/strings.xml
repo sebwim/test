@@ -18,7 +18,7 @@
   <string name="dialog_about_msg_9">Sebastian Höbarth</string>
   <string name="dialog_about_title">Impressum</string>
   <string name="dialog_btn_cancle">abbrechen</string>
-  <string name="dialog_btn_navigation"><font size='10'>Google</font>\nNavigation</string>
+  <string name="dialog_btn_navigation">&lt;font size=\"10\"&gt;Google&lt;/font&gt;\nNavigation</string>
   <string name="dialog_btn_ok">ok</string>
   <string name="dialog_date_abort">Abbrechen</string>
   <string name="dialog_date_ok">OK</string>
@@ -29,7 +29,7 @@
   <string name="dialog_disclaimer_msg2">Die lizenzierten Fahrplandaten werden von Open Commons Region Linz zur Verfügung gestellt. Es kann daher keine Gewähr über die Richtigkeit und Verfügbarkeit der angezeigten Fahrplandaten übernommen werden.</string>
   <string name="dialog_disclaimer_msg3">Mit freundlichen Grüßen</string>
   <string name="dialog_disclaimer_msg4">Sebastian Höbarth</string>
-  <string name="dialog_disclaimer_msg5">Lilli verzeichnet bereits mehr als 10.000 Downloads im Jahr 2012! Vielen Dank für die Unterstützung und die hilfreichen Rückmeldungen. </string>
+  <string name="dialog_disclaimer_msg5">Lilli verzeichnet bereits mehr als 10.000 Downloads im Jahr 2012! Vielen Dank für die Unterstützung und die hilfreichen Rückmeldungen.</string>
   <string name="dialog_disclaimer_title">Hinweis</string>
   <string name="dialog_error_connection_cancle">abbrechen</string>
   <string name="dialog_error_connection_error">Linz AG Service ist nicht Verfügbar!\nBitte probieren Sie es später nocheinmal oder kontaktieren Sie:\nopen.commons@linz.at</string>
@@ -80,8 +80,8 @@
   <string name="email_address">lilli@mobilefactory.at</string>
   <string name="email_chooser">Wähle Mail</string>
   <string name="email_subject">Meldung</string>
-  <string name="main_btn_left"><i>left</i></string>
-  <string name="main_btn_right"><i>right</i></string>
+  <string name="main_btn_left">&lt;i&gt;left&lt;/i&gt;</string>
+  <string name="main_btn_right">&lt;i&gt;right&lt;/i&gt;</string>
   <string name="main_search_hint">Suche Haltestelle...</string>
   <string name="main_search_not_in_list">n.A.</string>
   <string name="main_title_advert">Abfahrten</string>
@@ -111,9 +111,9 @@
   <string name="menu_ticket">Fahrschein</string>
   <string name="my_position">meine Position</string>
   <string name="please_wait">bitte warten...</string>
-  <string name="search_btn_clear"><i>löschen</i></string>
-  <string name="search_btn_pos"><i>Position</i></string>
-  <string name="td_price_desc">Preis inkl. 10% Mwst.</string>
+  <string name="search_btn_clear">&lt;i&gt;löschen&lt;/i&gt;</string>
+  <string name="search_btn_pos">&lt;i&gt;Position&lt;/i&gt;</string>
+  <string name="td_price_desc">Preis inkl. 10&#0037; Mwst.</string>
   <string name="to_city_description">Stadt:</string>
   <string name="to_count_description">Anzahl:</string>
   <string name="to_ticket_type_description">Ticket-Typ:</string>
