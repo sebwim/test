@@ -80,7 +80,7 @@
   <string name="email_address">lilli@mobilefactory.at</string>
   <string name="email_chooser">Mail/Posta seçin</string>
   <string name="email_subject">Mesaj</string>
-  <string name="main_btn_left"><i>sol<i></string>
+  <string name="main_btn_left"><i>sol</i></string>
   <string name="main_btn_right"><i>sağ</i></string>
   <string name="main_search_hint">Durak arama...</string>
   <string name="main_search_not_in_list">uygulanabilir değil</string>
