@@ -2,7 +2,35 @@
 <resources>
   <string name="app_name">Lilli - Linzer Linien</string>
   <string name="app_version">0.95</string>
-   <string name="dialog_disclaimer_title">Hinweis</string>
+  <string name="ast">Bestellen mind. 30 Minuten vorher unter Telefon +43 732 661 266</string>
+  <string name="ast_number">0043732661266</string>
+  <string name="current_position">aktuelle Position</string>
+  <string name="dialog_about_btn">ok</string>
+  <string name="dialog_about_msg_1">Lilli - Linzer Linien:</string>
+  <string name="dialog_about_msg_10">Hergestellt von:</string>
+  <string name="dialog_about_msg_2">Linzer Routenplaner für die öffentlichen Verkehrsmittel der Linz AG Linien</string>
+  <string name="dialog_about_msg_3">Open Government Data</string>
+  <string name="dialog_about_msg_4">Datenquelle:</string>
+  <string name="dialog_about_msg_5">Stadt Linz - data.linz.gv.at</string>
+  <string name="dialog_about_msg_6">Lizenz:</string>
+  <string name="dialog_about_msg_7">Creative Commons</string>
+  <string name="dialog_about_msg_8">© Diese Applikation ist urheberrechtlich geschützt.</string>
+  <string name="dialog_about_msg_9">Sebastian Höbarth</string>
+  <string name="dialog_about_title">Impressum</string>
+  <string name="dialog_btn_cancle">abbrechen</string>
+  <string name="dialog_btn_navigation">&lt;font size=\"10\"&gt;Google&lt;/font&gt;\nNavigation</string>
+  <string name="dialog_btn_ok">ok</string>
+  <string name="dialog_date_abort">Abbrechen</string>
+  <string name="dialog_date_ok">OK</string>
+  <string name="dialog_date_title">Datum/Zeit</string>
+  <string name="dialog_disclaimer_btn">OK</string>
+  <string name="dialog_disclaimer_msg">Linzer Routenplaner für die öffentlichen Verkehrsmittel der Linz AG Linien.</string>
+  <string name="dialog_disclaimer_msg1">Willkommen bei Lilli!</string>
+  <string name="dialog_disclaimer_msg2">Die lizenzierten Fahrplandaten werden von Open Commons Region Linz zur Verfügung gestellt. Es kann daher keine Gewähr über die Richtigkeit und Verfügbarkeit der angezeigten Fahrplandaten übernommen werden.</string>
+  <string name="dialog_disclaimer_msg3">Mit freundlichen Grüßen</string>
+  <string name="dialog_disclaimer_msg4">Sebastian Höbarth</string>
+  <string name="dialog_disclaimer_msg5">Lilli verzeichnet bereits mehr als 10.000 Downloads im Jahr 2012! Vielen Dank für die Unterstützung und die hilfreichen Rückmeldungen.</string>
+  <string name="dialog_disclaimer_title">Hinweis</string>
   <string name="dialog_error_connection_cancle">abbrechen</string>
   <string name="dialog_error_connection_error">Linz AG Service ist nicht Verfügbar!\nBitte probieren Sie es später nocheinmal oder kontaktieren Sie:\nopen.commons@linz.at</string>
   <string name="dialog_error_connection_exception">Es tut uns leid, es ist ein Fehler aufgetreten.\nBitte probieren Sie es später nocheinmal oder wenden Sie sich an den Hersteller.</string>
@@ -23,7 +51,6 @@
   <string name="dialog_realtime_msg">Dies ermöglicht die Anzeige von eventuellen Verspätungen.\n\nHinweis: Wenn keine Echtzeitinformation verfügbar sind, werden die Minuten in Blau angezeigt. Sollten Sie Echzeit ausschalten, werden die Abfahrtszeiten nach Fahrplan angezeigt.\n\nMöchten Sie die Echtzeit aktivieren?</string>
   <string name="dialog_realtime_no">Ausschalten</string>
   <string name="dialog_realtime_title">Echtzeit</string>
-    <string name="dialog_realtime_title">Neues Segment jippie!!!!!!</string>
   <string name="dialog_realtime_yes">Einschalten</string>
   <string name="dialog_station_adress">Adresse:</string>
   <string name="dialog_station_btn_dismiss">Karte</string>
