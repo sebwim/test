@@ -23,7 +23,7 @@
   <string name="dialog_realtime_msg">Dies ermöglicht die Anzeige von eventuellen Verspätungen.\n\nHinweis: Wenn keine Echtzeitinformation verfügbar sind, werden die Minuten in Blau angezeigt. Sollten Sie Echzeit ausschalten, werden die Abfahrtszeiten nach Fahrplan angezeigt.\n\nMöchten Sie die Echtzeit aktivieren?</string>
   <string name="dialog_realtime_no">Ausschalten</string>
   <string name="dialog_realtime_title">Echtzeit</string>
-    <string name="dialog_realtime_title">Neues Segment jippie!!!!!!</string>
+    <string name="dialog_realtime_titlenew">Neues Segment jippie!!!!!!</string>
   <string name="dialog_realtime_yes">Einschalten</string>
   <string name="dialog_station_adress">Adresse:</string>
   <string name="dialog_station_btn_dismiss">Karte</string>
