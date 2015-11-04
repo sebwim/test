@@ -1,6 +1,6 @@
-fr:
+en-US:
   # to trigger automatic import into lingohub
-  add: Ajouter
+  add: Add
   api:
     index:
       # this must not be translated keep it as it is.
