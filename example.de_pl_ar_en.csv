@@ -1,0 +1,8 @@
+"Title","Description","de","pl","ar","en"
+"settings","General Settings","Einstellungen","Ustawienia","","Settings"
+"has_placeholders","This example shows the usage of placeholders","Hallo {username}","Cześć {username}","","Hello {username}"
+"quotes","Quotes in content","Hallo ""LingoHub""","Cześć ""LingoHub""","","Hello ""LingoHub"""
+"linebreaks","an example for linebreaks","Hier ist ein
+Zeilenumbruch","Oto 
+nowa linea","","Here is a
+linebreak"
