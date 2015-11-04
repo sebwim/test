@@ -1,2 +1,9 @@
-fr: {
-  }
+fr:
+  # to trigger automatic import into lingohub
+  add: Ajouter
+  api:
+    index:
+      # this must not be translated keep it as it is.
+      # 
+      # lh-check { placeholders: false, terms: "REST" }
+      title: Kuckuck
