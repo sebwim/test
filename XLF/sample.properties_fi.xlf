@@ -4,7 +4,6 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
 <file original="sample.properties" 
-  source-language="fr" target-language="pl" 
   datatype="javapropertyresourcebundle">
 <body>
    <trans-unit id="0" resname="key1">
