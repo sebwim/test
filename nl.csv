@@ -1,0 +1,7 @@
+"Title","Description","nl","en"
+"settings","General Settings","Einstellungen","Einstellungen"
+"has_placeholders","This example shows the usage of placeholders","Hallo {username}","Hallo {username}"
+"quotes","Quotes in content","Hallo ""LingoHub""","Hallo ""LingoHub"""
+"linebreaks","an example for linebreaks","Hier ist ein
+Zeilenumbruch","Hier ist ein
+Zeilenumbruch"
