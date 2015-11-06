@@ -1,9 +1,9 @@
-"Title","Description","de","pl","en"
-"settings","General Settings","Einstellungen","Ustawienia","Settings"
-"has_placeholders","This example shows the usage of placeholders","Hallo {username}","Cześć {username}","Hello {username}"
-"quotes","Quotes in content","Hallo ""LingoHub""","Cześć ""LingoHub""","Hello ""LingoHub"""
+"Title","Description","de","it","pl","sv","fr","en"
+"settings","General Settings","Einstellungen","","Ustawienia","","","Settings"
+"has_placeholders","This example shows the usage of placeholders","Hallo {username}","","Cześć {username}","","","Hello {username}"
+"quotes","Quotes in content","Hallo ""LingoHub""","","Cześć ""LingoHub""","","","Hello ""LingoHub"""
 "linebreaks","an example for linebreaks","Hier ist ein
-Zeilenumbruch","Oto 
-nowa linea","Here is a
+Zeilenumbruch","","Oto 
+nowa linea","","","Here is a
 linebreak"
-"title","CommentTest","Eins","Jeden","One"
+"title","CommentTest","Eins","","Jeden","","","One"
