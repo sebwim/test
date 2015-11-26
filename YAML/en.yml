@@ -1,13 +1,12 @@
+---
 en:
   # to trigger automatic import into lingohub
   add: Add
   api:
     index:
       # this must not be translated keep it as it is.
-      # 
-      # 
-      # lh-check { placeholders: false, terms: "REST" }
-      title: Kuckuck
+      # lh-check { placeholders: false, terms: REST API }
+      title: REST API
   cancel: Cancel
   close: Close
   collaborators:
@@ -17,10 +16,10 @@ en:
       tooltip: Delete collaborator
     edit:
       destroy:
-        # lh-check { placeholders: false, max: +5, min: -5 }
+        # lh-check { min: -5, max: +5, placeholders: false }
         confirm: Do you really want to remove the collaborator from the project?
     index:
-      # lh-check { placeholders: false, max: +20, min: -20 }
+      # lh-check { min: -20, max: +20, placeholders: false }
       content: 'You can invite new project collaborators (translators or developers)
         to work with you on the project. Assigning a user to a role defines the user''s
         permissions. This helps the collaborator to focus only on what is relevant
@@ -70,6 +69,7 @@ en:
         reports: Reports
         sidekiq_web: Sidekiq
         users: Users
+  edit: Edit
   errors:
     messages:
       extension_white_list_error: 'You are not allowed to upload %{extension} files,
@@ -80,7 +80,7 @@ en:
     routing_public:
       back_link: go back to Lingohub.com
       email_link: Send us an email if we can help out
-      # lh-check { placeholders: false }
+      # lh-check { placeholders: false, terms: 404 }
       h1: 404 - Lost In Translation
       item1: Lingohub documentation
       item2: the Lingohub blog
@@ -96,7 +96,7 @@ en:
       provider:
         bitbucket: Bitbucket
         facebook: Facebook
-        # lh-check { placeholders: false, terms: "Github" }
+        # lh-check { placeholders: false, terms: Github }
         github: Github
         google_oauth2: Google
         linkedin: LinkedIn
@@ -548,20 +548,20 @@ en:
       page_title: Repository Settings - %{project_title}
       repository_name:
         label: 'Repository:'
-        # lh-check { placeholders: false, terms: "rails/rails" }
+        # lh-check { placeholders: false, terms: rails/rails }
         placeholder: rails/rails
       select_btn: Select
       setup_hook:
         action: Automatic repository synchronization
         bitbucket:
-          # lh-check { terms: "Bitbucket" }
+          # lh-check { terms: Bitbucket }
           administrative_rights_needed: You need administrative rights for the Bitbucket project to enable automatic synchronization.
         flash:
           success:
             install: Automatic repository sync enabled
             uninstall: Automatic repository sync disabled
         github:
-          # lh-check { terms: "Github" }
+          # lh-check { terms: Github }
           administrative_rights_needed: You need administrative rights for the Github project to enable automatic synchronization.
         inplace_hints:
           heading: Set up automatic repository sync
@@ -657,12 +657,12 @@ en:
           bitbucket:
             create_link: Connect to repository
             p1: Lingohub currently supports connecting to Bitbucket. Once a connection is established, Lingohub has access to your repository and its resource files. You can choose between synchronizing manually or using a web hook for automatic synchronization.
-            # lh-check { terms: "Bitbucket" }
+            # lh-check { terms: Bitbucket }
             title: Connect your Bitbucket repository
           github:
             create_link: Connect to repository
             p1: Lingohub currently supports connecting to Github. Once a connection is established, Lingohub has access to your repository and its resource files. You can choose between synchronizing manually or using a web hook for automatic synchronization.
-            # lh-check { terms: "Github" }
+            # lh-check { terms: Github }
             title: Connect your Github repository
       title: Files - %{project_title}
     repository_setting:
