@@ -22,7 +22,7 @@ en:
       # lh-check { min:1, max:5, placeholder: false, terms: [lingohub, Github] }
       gg: some comment that includes colon  #comment : to be ignored : by our parser :
       having_a_hash_in_the_masked_value: ! 'this # must not be interpreted as a comment'
-      #some comment with a # in it
+      #some comment with a numbersign in it
       having_a_second_hash_in_the_comment: is eh super
       # comment for 'Marko & Nemanja'
       having_a_comment_with_single_quote_at_the_end: is eh super
