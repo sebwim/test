@@ -19,7 +19,7 @@ en:
       g: muß grösser sein
       # some comment: that includes colon
       #
-      # lh-check { min:1, max:5, placeholder: false, terms: [lingohub, Github] }
+      # lh-check { min:1, max:5, terms: [lingohub, Github] }
       gg: some comment that includes colon  #comment : to be ignored : by our parser :
       having_a_hash_in_the_masked_value: ! 'this # must not be interpreted as a comment'
       #some comment with a numbersign in it
