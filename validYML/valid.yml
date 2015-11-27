@@ -1,0 +1,84 @@
+# a comment
+
+en:
+  a: "a string"
+  #b: "a string with escape sequences \t \n \r \\ \" \' \ (space) \u0123"
+  c:  |
+    a string with a 
+    continuation line
+  #comment to be ignored
+  d:
+    e:
+      f: another string
+# a misplaced comment that has to be present for 'd.e.having_misplaced_comment_before'
+      having_misplaced_comment_before: some other value
+                                      # a misplaced comment that has to be present for 'd.e.having_misplaced_comment_after'
+      having_misplaced_comment_after: some other value
+
+      #some comment
+      g: muß grösser sein
+      # some comment: that includes colon
+      #
+      # lh-check { min:1, max:5, placeholder: false, terms: [lingohub, Github] }
+      gg: some comment that includes colon  #comment : to be ignored : by our parser :
+      having_a_hash_in_the_masked_value: ! 'this # must not be interpreted as a comment'
+      #some comment with a numbersign in it
+      having_a_second_hash_in_the_comment: is eh super
+      # comment for 'Marko & Nemanja'
+      having_a_comment_with_single_quote_at_the_end: is eh super
+      # comment for 'Marko & Nemanja' that ends here
+      having_a_comment_with_single_quotes: is eh super
+      # this is a multiline comment. this is a multiline comment.
+      # this is a multiline comment.
+      # this is a multiline comment!
+      having_a_multiline_comment: mulitline comment
+  array:
+    - 1
+    - 2
+    - 3
+  # : comments starting with colon should be ignored
+  e: false
+  f: 123
+  common_h: &common_h
+    h1: 1
+    h2: 2
+    h3: 3
+
+  hh:
+    <<: *common_h
+    hh1: 11
+
+  hhh:
+    <<: *common_h
+    hhh1: 111
+
+  k:
+  l m: baz
+  n: "a string with a \nnewline"
+
+  hex_color_html: ! 'go online to <a href="http://lingohub.com" style="color:
+  #006E99">http://lingohub.com</a> and update your account and payment information'
+  after_hex_color: should have no description
+
+  #commented_out_key_vlue_html: ! 'with some ''non word'' characters'
+  after_commented_out_key_value: should have no description
+
+  #commented_out multi_word_key: should be ignored
+  after_commented_out multi_word_key: should have no description
+
+  #some valid comment that will be treated as a description
+  #content: that looks like a commented out key-value pair will be ignored
+  strategy_for_commented_out_keys: only first comment line is treated as description
+
+  even_quotes_html: ! 'go online ''to'' <a href="http://lingohub.com" style="color:'
+  #006E99">http://lingohub.com</a> and update your account and payment information'
+  after_even_quotes: should have description
+
+  :symbol_1: value 1
+  :symbol_2: value 2
+
+  :nested_symbol:
+    some_key: some value
+
+  :true: "Sí"
+  :false: "No"
