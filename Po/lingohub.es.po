@@ -1,0 +1,12 @@
+# header comment
+msgid ""
+msgstr ""
+"Project-Id-Version: LingoHub 1.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-05 19:22+0200\n"
+"PO-Revision-Date: 2013-04-29 10:16+0100\n"
+"Last-Translator: Translator <translator@lingohub.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"Content-Type: text/plain; charset=UTF-8"
