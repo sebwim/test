@@ -1,0 +1,55 @@
+# FRENCH (fr_FR) translation for Booktype.
+# Copyright (C) 2013 Booktype contributors
+# This file is distributed under the same license as the Booktype package.
+# Aleksandar Erkalović <aleksandar.erkalovic@sourcefabric.org>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Booktype 1.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-05 19:22+0200\n"
+"PO-Revision-Date: 2013-04-29 10:16+0100\n"
+"Last-Translator: Daniel James <daniel.james@sourcefabric.org>\n"
+"Language-Team: French Localization <elisa.dcg@gmail.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+# translator-comments
+#. extracted-comments
+msgid "description"
+msgstr "description"
+
+msgid ""
+"If you have an image for the book then add it now (this can be added or "
+"changed later)"
+msgstr "multiline key"
+
+# lh-check { placeholders: false, terms: "t123" }
+msgid "Password reset instructions were sent to your email."
+msgstr ""
+"<h2>Consultez vos courriels !</h2><p>Des instructions pour réinitialiser "
+"votre mot de passe ont été envoyées par courriel.</p>"
+
+msgid ""
+"\n"
+"    <p>Thank you. We have created your account and signed you in. Do you "
+"want to learn more how to use Booktype? Read the <a href=\"http://en."
+"flossmanuals.net/booktype\">user guide</a>!</p>\n"
+"    \n"
+"    <p><form method=\"GET\" action=\"%(frontpage_url)s\"><button>Great! "
+"Let's use Booktype now!</button><span class=\"redirectmessage\" style="
+"\"padding-left: 20px\">Automatic redirection in <span class=\"sec\">sec</"
+"span> seconds.</span></form></p>\n"
+"    "
+msgstr ""
+"<p>Merci. Nous avons créé votre compte et vous vous êtes connecté. Si vous "
+"êtes nouveau à Booki, nous vous recommandons de lire notre Guide utilisateur "
+"de Booki.</p><p><form method=\"GET\" action="
+"\"%(frontpage_url)s\"><button>Génial ! Utilisons Booki maintenant !</"
+"button><span class=\"redirectmessage\" style=\"padding-left: 20px\">Vous "
+"serez automatiquement redirigé dans <span class=\"sec\">sec</span> seconds.</"
+"span></form></p>"
