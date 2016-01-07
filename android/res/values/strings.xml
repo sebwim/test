@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">LingoHub</string>
+  
+  <!-- Comment for segment hello_world -->
+  <string name="hello_world">Hello World!</string>
+
+  <!-- #lh-check {placeholders: true} -->
+  <string name="placeholders">Checking for placeholders like %s</string>
+
+  <string-array name="fruits">
+    <item>Apple</item>
+    <item>Banana</item>
+    <!-- Pineapples are tasty -->
+    <item>Pineapple</item>
+        <!-- Mars comment -->
+    <item>Mars</item>
+  </string-array>
+
+</resources>
