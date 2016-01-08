@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Example</string>
+  
+  <!-- Comment for segment hello_world -->
+  <string name="hello_world">Hello World!</string>
+
+  <!-- #lh-check {max: 25} -->
+  <string name="placeholders">Character Limit of 25</string>
+
+  <string-array name="fruits">
+    <item>Apple</item>
+    <item>Banana</item>
+    <!-- Pineapples are tasty -->
+    <item>Pineapple</item>
+  </string-array>
+
+</resources>
