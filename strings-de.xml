@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="app_name">asdf</string>
   <!--Comment for segment hello_world-->
   <string name="hello_world">Halo Welt</string>
   <!--comment information
