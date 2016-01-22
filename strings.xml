@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Example</string>
+  <!--Comment for segment hello_world-->
+  <string name="hello_world">Hello World!</string>
+  <!--comment information
+
+lh-check { max: 25 }-->
+  <string name="placeholders">Character Limit of 25</string>
+</resources>

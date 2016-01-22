@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!--Comment for segment hello_world-->
+  <string name="hello_world">Halo Welt</string>
+  <!--comment information
+
+lh-check { max: 25 }-->
+  <string name="placeholders">12345678901234567890123456789l</string>
+</resources>
